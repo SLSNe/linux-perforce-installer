@@ -23,7 +23,7 @@ PATH="/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin"
 
 p4start="p4d -d"
 p4stop="p4 admin stop"
-p4user=perforce
+p4user=mikhail
 
 case "$1" in
   start)
